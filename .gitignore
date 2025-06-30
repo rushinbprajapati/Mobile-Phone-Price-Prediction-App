@@ -1,0 +1,9 @@
+
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode/IDE folders
+.vscode/
+.idea/
